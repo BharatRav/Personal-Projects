@@ -1,0 +1,5 @@
+hi 
+in this Project
+a costomers comes with his data on a entry gate and also this entry gate is same for exit time
+the guy who's sitting on counter is takes vehicle number and the car model and colour and then generate a ticket
+at the exit time the guy calculate the time and generate the payable amount to the costomer
