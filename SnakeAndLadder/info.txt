@@ -1,0 +1,3 @@
+here a 2 player game
+ where a board a snake class and a ladder class
+ whoever got on 100 will be winner 
